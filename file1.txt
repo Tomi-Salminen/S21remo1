@@ -1,1 +1,2 @@
 some text in it
+editing file 1
