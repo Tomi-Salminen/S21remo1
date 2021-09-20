@@ -1,2 +1,2 @@
 # S21remo1
-Ohjelmistotuotanto SS21
+Ohjelmistotuotanto S21
